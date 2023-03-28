@@ -58,14 +58,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV9configure6apiKeyySS_tFZ",
-            "mangledName": "$s15CustomFramework3SDKV9configure6apiKeyySS_tFZ",
+            "usr": "s:15CustomFramework3SDKV9configure6apiKeyySS_tF",
+            "mangledName": "$s15CustomFramework3SDKV9configure6apiKeyySS_tF",
             "moduleName": "CustomFramework",
-            "static": true,
             "declAttributes": [
+              "Mutating",
               "AccessControl"
             ],
-            "funcSelfKind": "NonMutating"
+            "funcSelfKind": "Mutating"
           },
           {
             "kind": "Function",
@@ -79,10 +79,9 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV10doSomeWorkyyFZ",
-            "mangledName": "$s15CustomFramework3SDKV10doSomeWorkyyFZ",
+            "usr": "s:15CustomFramework3SDKV10doSomeWorkyyF",
+            "mangledName": "$s15CustomFramework3SDKV10doSomeWorkyyF",
             "moduleName": "CustomFramework",
-            "static": true,
             "declAttributes": [
               "AccessControl"
             ],
@@ -101,10 +100,9 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV12getMessagingSo12FIRMessagingCyFZ",
-            "mangledName": "$s15CustomFramework3SDKV12getMessagingSo12FIRMessagingCyFZ",
+            "usr": "s:15CustomFramework3SDKV12getMessagingSo12FIRMessagingCyF",
+            "mangledName": "$s15CustomFramework3SDKV12getMessagingSo12FIRMessagingCyF",
             "moduleName": "CustomFramework",
-            "static": true,
             "declAttributes": [
               "AccessControl"
             ],
@@ -126,14 +124,14 @@
     {
       "filePath": "\/Users\/ysaucedo\/Desarrollo\/FrameworkSolution\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 232,
+      "offset": 226,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ysaucedo\/Desarrollo\/FrameworkSolution\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "Array",
-      "offset": 276,
+      "offset": 264,
       "length": 31,
       "value": "[\"privateKey123\"]"
     }
