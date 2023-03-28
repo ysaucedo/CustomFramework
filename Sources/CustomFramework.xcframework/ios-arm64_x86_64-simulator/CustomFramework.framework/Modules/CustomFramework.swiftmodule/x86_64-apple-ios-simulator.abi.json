@@ -16,6 +16,13 @@
       },
       {
         "kind": "Import",
+        "name": "Firebase",
+        "printedName": "Firebase",
+        "declKind": "Import",
+        "moduleName": "CustomFramework"
+      },
+      {
+        "kind": "Import",
         "name": "FirebaseCore",
         "printedName": "FirebaseCore",
         "declKind": "Import",
@@ -119,14 +126,14 @@
     {
       "filePath": "\/Users\/ysaucedo\/Desarrollo\/FrameworkSolution\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 216,
+      "offset": 232,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ysaucedo\/Desarrollo\/FrameworkSolution\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "Array",
-      "offset": 260,
+      "offset": 276,
       "length": 31,
       "value": "[\"privateKey123\"]"
     }
