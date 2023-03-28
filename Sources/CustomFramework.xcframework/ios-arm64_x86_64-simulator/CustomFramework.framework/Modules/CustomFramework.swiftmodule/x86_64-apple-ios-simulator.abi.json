@@ -1,0 +1,139 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Firebase",
+        "printedName": "Firebase",
+        "declKind": "Import",
+        "moduleName": "CustomFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseCore",
+        "printedName": "FirebaseCore",
+        "declKind": "Import",
+        "moduleName": "CustomFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseMessaging",
+        "printedName": "FirebaseMessaging",
+        "declKind": "Import",
+        "moduleName": "CustomFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SDK",
+        "printedName": "SDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(apiKey:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CustomFramework3SDKC9configure6apiKeyySS_tF",
+            "mangledName": "$s15CustomFramework3SDKC9configure6apiKeyySS_tF",
+            "moduleName": "CustomFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "doSomeWork",
+            "printedName": "doSomeWork()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CustomFramework3SDKC10doSomeWorkyyF",
+            "mangledName": "$s15CustomFramework3SDKC10doSomeWorkyyF",
+            "moduleName": "CustomFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getMessaging",
+            "printedName": "getMessaging()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Messaging",
+                "printedName": "FirebaseMessaging.Messaging",
+                "usr": "c:objc(cs)FIRMessaging"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CustomFramework3SDKC12getMessagingSo12FIRMessagingCyF",
+            "mangledName": "$s15CustomFramework3SDKC12getMessagingSo12FIRMessagingCyF",
+            "moduleName": "CustomFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15CustomFramework3SDKC",
+        "mangledName": "$s15CustomFramework3SDKC",
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/ysaucedo\/Desarrollo\/FrameworkSolution\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
+      "kind": "BooleanLiteral",
+      "offset": 225,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/ysaucedo\/Desarrollo\/FrameworkSolution\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
+      "kind": "Array",
+      "offset": 263,
+      "length": 31,
+      "value": "[\"privateKey123\"]"
+    }
+  ]
+}
