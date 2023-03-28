@@ -15,27 +15,6 @@
         ]
       },
       {
-        "kind": "Import",
-        "name": "Firebase",
-        "printedName": "Firebase",
-        "declKind": "Import",
-        "moduleName": "CustomFramework"
-      },
-      {
-        "kind": "Import",
-        "name": "FirebaseCore",
-        "printedName": "FirebaseCore",
-        "declKind": "Import",
-        "moduleName": "CustomFramework"
-      },
-      {
-        "kind": "Import",
-        "name": "FirebaseMessaging",
-        "printedName": "FirebaseMessaging",
-        "declKind": "Import",
-        "moduleName": "CustomFramework"
-      },
-      {
         "kind": "TypeDecl",
         "name": "SDK",
         "printedName": "SDK",
@@ -85,27 +64,6 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "getMessaging",
-            "printedName": "getMessaging()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Messaging",
-                "printedName": "FirebaseMessaging.Messaging",
-                "usr": "c:objc(cs)FIRMessaging"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKC12getMessagingSo12FIRMessagingCyF",
-            "mangledName": "$s15CustomFramework3SDKC12getMessagingSo12FIRMessagingCyF",
-            "moduleName": "CustomFramework",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -113,7 +71,8 @@
         "mangledName": "$s15CustomFramework3SDKC",
         "moduleName": "CustomFramework",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "RawDocComment"
         ],
         "hasMissingDesignatedInitializers": true
       }
@@ -124,14 +83,14 @@
     {
       "filePath": "\/Users\/ysaucedo\/Desarrollo\/FrameworkSolution\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 225,
+      "offset": 213,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ysaucedo\/Desarrollo\/FrameworkSolution\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "Array",
-      "offset": 263,
+      "offset": 251,
       "length": 31,
       "value": "[\"privateKey123\"]"
     }
