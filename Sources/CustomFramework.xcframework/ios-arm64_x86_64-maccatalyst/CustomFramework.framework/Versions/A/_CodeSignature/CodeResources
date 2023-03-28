@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Za/+B3W7zHpFZR64IuNu1xbjk68PHkk+TP/rR3LEp8k=
+			SI8sksdEnoiY6SWJqXAaO1aX0HvaLeOQVAXV+DqjuDc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QOesKjLCh4Nx/aXOoDROYN2GM1g3TuE1N3jgMfvl+Fw=
+			rKlVFlobCOfbubaITLdnZGLhPAt2qRi/1Lm27Gi9rPU=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -50,28 +50,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QOesKjLCh4Nx/aXOoDROYN2GM1g3TuE1N3jgMfvl+Fw=
+			rKlVFlobCOfbubaITLdnZGLhPAt2qRi/1Lm27Gi9rPU=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xwgs9aX98OAtCA0eA2vvyWwFmIF4I1WwjHVZWM9SbcM=
+			1m+UYR5iFnjDZtHfBiPX79zgGF1XAMVSVvWsSdwZ6pM=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Za/+B3W7zHpFZR64IuNu1xbjk68PHkk+TP/rR3LEp8k=
+			SI8sksdEnoiY6SWJqXAaO1aX0HvaLeOQVAXV+DqjuDc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/6InXa9S3jBCl2uW9lH/KvH41pWYKZSd4S4YAYV4SY4=
+			jke3nFgcPktz6kjeiuYduspCBRd2ZeywxqpC/svPUPc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/6InXa9S3jBCl2uW9lH/KvH41pWYKZSd4S4YAYV4SY4=
+			jke3nFgcPktz6kjeiuYduspCBRd2ZeywxqpC/svPUPc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SPHiHEgPeI5Tcl2Jj3Ee7lKafG8UBr41vjuB3amtqy0=
+			d3Li2HoJ/YFnz1BfB8kAS/kMDBle8x7Wc+ko9jY21b0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

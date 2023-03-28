@@ -3,6 +3,8 @@
 // swift-module-flags: -target arm64-apple-ios16.2 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CustomFramework
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import CustomFramework
+import FirebaseCore
+import FirebaseMessaging
 import Foundation
 import Swift
 import _Concurrency
@@ -10,4 +12,5 @@ import _StringProcessing
 public struct SDK {
   public static func configure(apiKey: Swift.String)
   public static func doSomeWork()
+  public static func getMessaging() -> FirebaseMessaging.Messaging
 }
