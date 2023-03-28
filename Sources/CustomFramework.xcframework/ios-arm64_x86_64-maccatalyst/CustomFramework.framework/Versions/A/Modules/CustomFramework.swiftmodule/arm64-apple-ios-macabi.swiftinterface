@@ -9,9 +9,8 @@ import Foundation
 import Swift
 import _Concurrency
 import _StringProcessing
-@_hasMissingDesignatedInitializers public class SDK {
-  public func configure(apiKey: Swift.String)
-  public func doSomeWork()
-  public func getMessaging() -> FirebaseMessaging.Messaging
+public class SDK {
+  public init()
+  public func getCodiMessaging() -> FirebaseMessaging.Messaging
   @objc deinit
 }
